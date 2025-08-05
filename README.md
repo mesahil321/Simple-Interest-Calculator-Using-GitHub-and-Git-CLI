@@ -8,3 +8,5 @@ Run the script by typing:
 
 ```bash
 bash simple-interest.sh
+
+> This project was updated from the bug-fix-typo branch.
